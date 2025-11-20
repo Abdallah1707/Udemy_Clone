@@ -1,0 +1,12 @@
+.category-container {
+  display: flex;
+  gap: 15px;
+  padding: 20px;
+}
+
+.category-btn {
+  padding: 10px 20px;
+  background: #eee;
+  border: none;
+  cursor: pointer;
+}

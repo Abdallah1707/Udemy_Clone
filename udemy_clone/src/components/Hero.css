@@ -1,0 +1,20 @@
+.hero {
+  background: #f1f1f1;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.hero-box {
+  background: white;
+  padding: 30px;
+  max-width: 600px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.hero-box input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 15px;
+}

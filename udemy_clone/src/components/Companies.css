@@ -1,0 +1,15 @@
+.companies-section {
+  padding: 30px;
+  text-align: center;
+}
+
+.company-logos {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.company-logos img {
+  height: 40px;
+}
