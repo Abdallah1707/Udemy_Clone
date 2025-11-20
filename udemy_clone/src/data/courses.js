@@ -5,7 +5,7 @@ export const courses = [
     instructor: "John Doe",
     rating: 4.7,
     price: 9.99,
-    image: "https://img-b.udemycdn.com/course/240x135/567828_67d0.jpg"
+    image: "/assets/python_course.jpg"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const courses = [
     instructor: "Maximilian",
     rating: 4.8,
     price: 12.99,
-    image: "https://img-b.udemycdn.com/course/240x135/123456_abc.jpg"
+    image: "/assets/react_course.jpg"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const courses = [
     instructor: "Colt Steele",
     rating: 4.6,
     price: 15.99,
-    image: "https://img-b.udemycdn.com/course/240x135/625204_436a_3.jpg"
+    image: "/assets/webdev_course.jpg"
   },
   {
     id: 4,
@@ -29,6 +29,6 @@ export const courses = [
     instructor: "Kirill Eremenko",
     rating: 4.5,
     price: 13.99,
-    image: "https://img-b.udemycdn.com/course/240x135/950390_270f_3.jpg"
+    image: "../assets/ml_course.jpg"
   }
 ];
